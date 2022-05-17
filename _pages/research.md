@@ -17,13 +17,26 @@ Some of the highlights of my research involvements are below.
 						<h5>Nonequilibrium Aerothermochemistry</h5>
 						<ul>
 						<li>
-							Developed dissociation model for nonequilibrium air
+							Developed MF-CFD dissociation model for nonequilibrium air
 						</li>
+							<ul>
+							<li>
+								Derived macrospcopic rates for heteronuclear molecules
+							</li>
+							<li>
+								Improved MF-CFD prediction of mean vibrational energy lost in dissociation
+							</li>
+							</ul>
 						<li>
-							Investigation of dissociation models for vibratinal nonequilibrium flows
+							Investigated various two-temperature dissociation models for vibrational nonequilibrium flow
 						</li>
 						<li>
 							Implemented nonequilibrium aerothermochemistry models in a commercial CFD package
+							<ul>
+							<li>
+								Developed an add-on nonequilibrium module for ANSYS Fluent CFD solver
+							</li>
+							</ul>							
 						</li>
 						</ul>
 					</li>
@@ -36,7 +49,7 @@ Some of the highlights of my research involvements are below.
 							Studied reentry aerothermodynamics of a CubeSat with drag-sail using DSMC and CFD
 						</li>
 						<li>
-							Calculated reentry trajectory to access predictible reentry corridor
+							Calculated reentry trajectory to assess predictible reentry corridor
 						</li>
 						<li>
 							Investigated slip boundary conditions for rarefied flow simulations
