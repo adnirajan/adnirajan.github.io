@@ -103,4 +103,26 @@ using uncertainty quantification techniques
 					</li>
 			</ul>
 	</div>
+	<!-- high-lift -->
+	<div class="card mt-3 p-3">
+		<h3 class="card-title">high-lift aerodynamics</h3>
+			<ul class="items">
+					<li>
+						<h5>CFD Modeling</h5>
+						<ul>
+						<li>
+							Assessed CFD prediction capabilities of high lift flow fields for <a href="https://hiliftpw.larc.nasa.gov/index-workshop3.html" target="_blank">HiLiftPW-3</a>
+						</li>
+						<li>
+							Developed grids for various aircraft configurations 
+						<ul>
+							<li>
+								Download Grids: <a href="https://hiliftpw-ftp.larc.nasa.gov/HiLiftPW3/JSM_Grids/Participant_Grids/c-JSM_Unstr_PW_020/" target="_blank">JSM</a>, <a href="https://hiliftpw-ftp.larc.nasa.gov/HiLiftPW3/HL-CRM_Grids/Participant_Grids/k-HLCRM_Unstr_PW_020/" target="_blank">NASA HL-CRM</a>
+							</li>
+							</ul>	
+						</li>
+						</ul>
+					</li>
+			</ul>
+	</div>
 </div>
