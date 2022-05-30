@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description: My research interest is mainly focused on investigating aerothermochemistry of nonequilibrium and rarefied flows. I have worked on the development of an add-on nonequilibrium module for the ANSYS Fluent CFD solver to investigate numerous high-speed nonequilibrium flows. I have also worked on the development of the Macheret-Fridman dissociation model for CFD. Additionally, I have experience working in the diverse interdisciplinary field of research, such as modeling heat and mass transfer in various lyophilization (freeze-drying) processes. #Research involvements.
 nav: true
 ---

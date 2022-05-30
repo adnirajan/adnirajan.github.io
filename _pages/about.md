@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://engineering.purdue.edu/AAE'>School of Aeronautics & Astronautics</a>, Purdue University
 
@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>West Lafayette, IN 47907</p>
+    <p>ARMS 3222, West Lafayette, IN 47907</p>
 #<p>701 W. Stadium Ave., ARMS 3222</p>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
