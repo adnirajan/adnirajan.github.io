@@ -48,7 +48,7 @@ nav: true
 					<h5 class="title font-weight-bold ml-1 ml-md-4">Purdue University - PhD in Aeronautics & Astronautics</h5>
 					<ul class="items">
 						<li>
-							Area of concentration: Aerodynamics wih minor in Propulsion
+							Area of concentration: Aerodynamics with minor in Propulsion
 						</li>
 						<li>
 							Advised by <a href="https://sites.google.com/view/rgdart/Home" target="_blank">Dr. Alina Alexeenko</a>
