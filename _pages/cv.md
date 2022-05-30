@@ -15,7 +15,7 @@ nav: true
 <div class="cv">
 	<!-- General -->
 	<div class="card p-3">
-		<h3 class="card-title">general</h3>
+		<h3 class="card-title">General</h3>
 	    <table class="table table-sm table-borderless">
 	          <tr>
 				<td class="p-0 pr-2 text-right">
@@ -37,7 +37,7 @@ nav: true
 	</div>
 	<!-- Education -->
 	<div class="card mt-3 p-3">
-		<h3 class="card-title">education</h3>
+		<h3 class="card-title">Education</h3>
 			<div class="row">
 				<div class="col-xs-2 cl-sm-2 col-md-auto text-left" style="width: 90px;">
 					<span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle" style="width: 90px;">
@@ -101,7 +101,7 @@ nav: true
 	</div>
 	<!-- Professional Experience -->
 	<div class="card mt-3 p-3">
-		<h3 class="card-title">professional appointments</h3>
+		<h3 class="card-title">Professional Appointments</h3>
 			<div class="row">
 				<div class="col-xs-2 cl-sm-2 col-md-auto text-left" style="width: 90px;">
 					<span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle" style="width: 99px;">
@@ -135,7 +135,7 @@ nav: true
 	</div>	
 	<!-- Trainings -->
 	<div class="card mt-3 p-3">
-		<h3 class="card-title">workshops & training</h3>
+		<h3 class="card-title">Workshops & Training</h3>
 			<ul class="items">
 					<li>
 						<h5>Fundamentals of Deep Learning by <a href="https://www.nvidia.com/en-us/training/" target="_blank">NVIDIA Deep Learning Institute (DLI)</a>, Feb 2022</h5>
@@ -168,7 +168,7 @@ nav: true
 	</div>
 	<!-- Skills -->
 	<div class="card mt-3 p-3">
-		<h3 class="card-title">skills</h3>
+		<h3 class="card-title">Skills</h3>
 	      <table class="table table-sm table-borderless">
 	          <tr>
 				<td class="p-0 pr-2 text-right">

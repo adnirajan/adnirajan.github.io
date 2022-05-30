@@ -11,7 +11,7 @@ Some of the highlights of my research involvements are below.
 <div class="cv">
 	<!-- High-speed flows -->
 	<div class="card mt-3 p-3">
-		<h3 class="card-title">high-speed flows</h3>
+		<h3 class="card-title">High-Speed Flows</h3>
 			<ul class="items">
 					<li>
 						<h5>Nonequilibrium Aerothermochemistry</h5>
@@ -60,7 +60,7 @@ Some of the highlights of my research involvements are below.
 	</div>
 		<!-- Kinetic theory -->
 	<div class="card mt-3 p-3">
-		<h3 class="card-title">kinetic theory</h3>
+		<h3 class="card-title">Kinetic Theory</h3>
 			<ul class="items">
 					<li>
 						<h5>Discontinuos Galerkin Fast Spectral Method for Boltzmann Equation</h5>
@@ -80,7 +80,7 @@ Some of the highlights of my research involvements are below.
 	</div>
 	<!-- Lyophilization -->
 	<div class="card mt-3 p-3">
-		<h3 class="card-title">pharmaceutical processess</h3>
+		<h3 class="card-title">Pharmaceutical Processess</h3>
 			<ul class="items">
 					<li>
 						<h5>Sensitivity Analysis</h5>
@@ -105,7 +105,7 @@ using uncertainty quantification techniques
 	</div>
 	<!-- high-lift -->
 	<div class="card mt-3 p-3">
-		<h3 class="card-title">high-lift aerodynamics</h3>
+		<h3 class="card-title">High-Lift Aerodynamics</h3>
 			<ul class="items">
 					<li>
 						<h5>CFD Modeling</h5>
