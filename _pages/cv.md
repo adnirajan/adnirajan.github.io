@@ -138,6 +138,19 @@ nav: true
 		<h3 class="card-title">Workshops & Training</h3>
 			<ul class="items">
 					<li>
+						<h5>Fundamentals of Accelerated Computing with CUDA C/C++ by <a href="https://www.nvidia.com/en-us/training/" target="_blank">NVIDIA Deep Learning Institute (DLI)</a>, Jun 2022</h5>
+						<ul>
+						<li>
+							Workshop on fundamentals of CUDA programming with C/C++; memory migration using asynchronous prefetching, concurrent streams for instruction-level parallelism, refactoring existing CPU-only applications
+						</li>
+						<li>
+							<a href="https://learn.next.courses.nvidia.com/certificates/961616e0fec846489bce4bfad2856647" target="_blank">Certificate of Competency</a>
+						</li>
+						</ul>
+					</li>
+			</ul>
+			<ul class="items">
+					<li>
 						<h5>Fundamentals of Deep Learning by <a href="https://www.nvidia.com/en-us/training/" target="_blank">NVIDIA Deep Learning Institute (DLI)</a>, Feb 2022</h5>
 						<ul>
 						<li>
